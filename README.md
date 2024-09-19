@@ -1,3 +1,3 @@
-使用的是XGBoost
-![image](https://github.com/user-attachments/assets/5a8e8d98-74f8-4391-a633-28e1c4b4becf)
-结果不是很理想，再修改
+使用的是XGBoost和随机森林
+!![image](https://github.com/user-attachments/assets/f9b339d1-bebf-408b-8100-2a697dacd952)
+
